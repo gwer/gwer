@@ -24,7 +24,7 @@ It's kind of like a competition to reduce the size of libraries.
   - https://github.com/ai/nanoevents/pull/18
   - https://github.com/ai/nanoevents/pull/19
 - **nanoid** — size reduction from 127 to 119 bytes:
-  - https://github.com/ai/nanoid/pull/170/files
+  - https://github.com/ai/nanoid/pull/170
 
 ### My Own
 - Simple status page app: https://github.com/gwer/another-one-bites-the-dust
