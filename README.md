@@ -27,6 +27,7 @@ It's kind of like a competition to reduce the size of libraries.
   - https://github.com/ai/nanoid/pull/170
 
 ### My Own
+- [autobun](https://github.com/gwer/autobun) — Next.js-like framework that just works well.
 - Simple status page app: https://github.com/gwer/another-one-bites-the-dust
 - CSS methodology and library that combines the advantages of CSS Modules and BEM: https://github.com/gwer/cssmem
 - OKLCH cheatsheet and playground (RU): https://gwer.github.io/oklch-playground/
