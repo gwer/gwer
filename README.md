@@ -1,3 +1,10 @@
+### My Own
+- [autobun](https://github.com/gwer/autobun) — Next.js-like framework that just works well.
+- Simple status page app: https://github.com/gwer/another-one-bites-the-dust
+- CSS methodology and library that combines the advantages of CSS Modules and BEM: https://github.com/gwer/cssmem
+- OKLCH cheatsheet and playground (RU): https://gwer.github.io/oklch-playground/
+- https://3dpot.net — Online Generator for 3D Printable Bonsai Pots
+
 ### My Contributions to Open Source
 - **nice-grpc**:
   - Add support for prometheus metrics customization: https://github.com/deeplay-io/nice-grpc/pull/423
@@ -25,10 +32,3 @@ It's kind of like a competition to reduce the size of libraries.
   - https://github.com/ai/nanoevents/pull/19
 - **nanoid** — size reduction from 127 to 119 bytes:
   - https://github.com/ai/nanoid/pull/170
-
-### My Own
-- [autobun](https://github.com/gwer/autobun) — Next.js-like framework that just works well.
-- Simple status page app: https://github.com/gwer/another-one-bites-the-dust
-- CSS methodology and library that combines the advantages of CSS Modules and BEM: https://github.com/gwer/cssmem
-- OKLCH cheatsheet and playground (RU): https://gwer.github.io/oklch-playground/
-- https://3dpot.net — Online Generator for 3D Printable Bonsai Pots  
