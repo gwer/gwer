@@ -7,6 +7,8 @@
 - OKLCH cheatsheet and playground (RU): https://gwer.github.io/oklch-playground/
 
 ### My Contributions to Open Source
+- **Bun**:
+  - Fix CSS Modules when code splitting enabled: https://github.com/oven-sh/bun/pull/18435
 - **nice-grpc**:
   - Add support for prometheus metrics customization: https://github.com/deeplay-io/nice-grpc/pull/423
 - **Next.js**:
